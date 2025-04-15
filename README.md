@@ -13,10 +13,10 @@ Harap mengikuti langkah-langkah instal SEB pada Windows/MacOS di bawah ini:
 ## Link Download Alternatif
 ### Untuk Windows versi 3.7
 - [https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.7.0/SEB_3.7.0.682_SetupBundle.exe](https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.7.0/SEB_3.7.0.682_SetupBundle.exe)
-- [GDRIVE](#)
+- [https://drive.google.com/file/d/1JpR2qDmEW8uIOLEFHxgIBHRdG_YgRRCH/view?usp=sharing](https://drive.google.com/file/d/1JpR2qDmEW8uIOLEFHxgIBHRdG_YgRRCH/view?usp=sharing)
 ### Untuk MacOS versi 3.4
 - [https://github.com/SafeExamBrowser/seb-mac/releases/download/3.4.1/SafeExamBrowser-3.4.1.dmg](https://github.com/SafeExamBrowser/seb-mac/releases/download/3.4.1/SafeExamBrowser-3.4.1.dmg)
-- [GRIVE](#)
+- [https://drive.google.com/file/d/1po9eYy2eMcn41zPUI0n2EDfUtU-Zlzlf/view?usp=sharing](https://drive.google.com/file/d/1po9eYy2eMcn41zPUI0n2EDfUtU-Zlzlf/view?usp=sharing)
 
 ## Ketentuan Umum
 
